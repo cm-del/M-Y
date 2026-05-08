@@ -1,0 +1,14 @@
+{
+  "name": "A&Y - مزرعة دواجن ذكية",
+  "short_name": "A&Y",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#060d17",
+  "theme_color": "#d4af37",
+  "description": "إدارة مزارع دواجن بالذكاء الاصطناعي",
+  "lang": "ar",
+  "icons": [
+    { "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMAAAADACAYAAABS3GwTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA30lEQVR42u3bMQ0AAAgAwdk/2mwoJMCABU4AAAA4OPoAwLsBYAAGAADAOwBgUABAfgAAwA4AAAAAAAAAAAAAAAAAAAAAADcAADYAAAAAAIAAAADcAAAAAAAAAAAAAAA2AAAAAAAAAAAAAAB8AAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAKAIAAAAA1AcAAAAAAAAAAAAAAIAKAAAAAOcDAAAAAAAAAAAAAA+AAABAAAAA/AAAAAAQAAAAA+AAAAAA=", "sizes": "192x192", "type": "image/png" },
+    { "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIAAQMAAADOtR65AAAABlBMVEUAAAD/AAAA+OjO/AAAACV0RVh0U29mdHdhcmUAZXl3LmNvbS9ncmFwaGljcy9wbGFu/GZgRQAAAA90RVh0VGl0bGUAU29jaWFsIE1lZGlh29YAAAAASUVORK5CYII=", "sizes": "512x512", "type": "image/png" }
+  ]
+}
