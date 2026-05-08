@@ -1,0 +1,32 @@
+@media print {
+    .hdr, .fbar, .hb, .bnav, .itabs, .qabar, button, .btn, .mo, canvas {
+        display: none !important;
+    }
+    body {
+        background: white;
+        color: black;
+        font-family: 'Cairo', sans-serif;
+    }
+    .page {
+        padding: 0;
+        margin: 0;
+        display: block !important;
+    }
+    .card, .stat, .bc, .hi, .stock, .fcr {
+        border: 1px solid #ccc;
+        background: white;
+        break-inside: avoid;
+    }
+    .tw table {
+        width: 100%;
+        border-collapse: collapse;
+    }
+    th, td {
+        border: 1px solid #000;
+        color: black;
+        padding: 6px;
+    }
+    .sn, .sl {
+        color: black;
+    }
+}
